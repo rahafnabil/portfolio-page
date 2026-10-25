@@ -6,6 +6,17 @@ body{
 header{
     
     background-color: plum;
-    width: 100%;
-    
+    width: 100%; 
+}
+
+
+section{
+    margin: 3%;
+    padding: 5%;
+    border-radius: 7%;
+    background-color: aliceblue;
+    border: 2px dotted black;
+    img{
+        border-radius: 20%;
+    }
 }
