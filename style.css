@@ -7,16 +7,40 @@ header{
     
     background-color: plum;
     width: 100%; 
+    
 }
+article{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10%;
+    background-color: burlywood;
+    h4{
+        font-size: 25px;
+    }
 
+    #my-role{
+        color: darkblue;
+        
+    }
+}
 
 section{
     margin: 3%;
     padding: 5%;
-    border-radius: 7%;
+    border-radius: 10%;
     background-color: aliceblue;
     border: 2px dotted black;
+    h4{
+        font-size: 25px;
+    }
     img{
         border-radius: 20%;
+        max-width: 500px;
     }
+    
+}
+footer{
+    
+    padding: 5px;
+    background-color: aquamarine;
 }
